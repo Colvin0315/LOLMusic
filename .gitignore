@@ -1,0 +1,17 @@
+node_modules/
+out/
+build/
+release/
+dist/
+.playwright-cli/
+__pycache__/
+*.pyc
+data/bilibili_cookies.txt
+data/bilibili_profile.json
+data/bilibili_avatar.jpg
+data/app_state.json
+assets/champions/
+.DS_Store
+*.log
+*.tmp
+*.tsbuildinfo

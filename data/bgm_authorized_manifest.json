@@ -1,0 +1,1761 @@
+{
+  "version": 1,
+  "generated_at": "2026-06-17T01:14:51",
+  "source": "docs/hero_bgm_recommendations.md",
+  "copyright_note": "This manifest is for organizing music you own, created yourself, received permission to use, or obtained from a source that explicitly allows offline use. It does not grant rights or download audio from Bilibili.",
+  "naming_contract": {
+    "destination_dir": "./assets/music/recommended",
+    "accepted_extensions": [
+      ".mp3",
+      ".m4a",
+      ".aac",
+      ".ogg",
+      ".opus",
+      ".wav",
+      ".flac"
+    ],
+    "preferred_filename": "<track_id><extension>, for example ignite.mp3"
+  },
+  "tracks": [
+    {
+      "id": "ignite",
+      "title": "淬火 (IGNITE)",
+      "artist": "李佳薇 / DNFU地下城与勇士",
+      "vibe": "战斗、锻造、燃点",
+      "local_target_stem": "./assets/music/recommended/ignite",
+      "accepted_local_files": [
+        "./assets/music/recommended/ignite.mp3",
+        "./assets/music/recommended/ignite.m4a",
+        "./assets/music/recommended/ignite.aac",
+        "./assets/music/recommended/ignite.ogg",
+        "./assets/music/recommended/ignite.opus",
+        "./assets/music/recommended/ignite.wav",
+        "./assets/music/recommended/ignite.flac"
+      ],
+      "bilibili_search_url": "https://search.bilibili.com/all?keyword=%E6%B7%AC%E7%81%AB+%28IGNITE%29+%E6%9D%8E%E4%BD%B3%E8%96%87+%2F+DNFU%E5%9C%B0%E4%B8%8B%E5%9F%8E%E4%B8%8E%E5%8B%87%E5%A3%AB",
+      "license_status": "needs_user_authorized_local_file",
+      "heroes": [
+        {
+          "hero_key": "olaf",
+          "display_name": "狂战士 奥拉夫",
+          "english_name": "Olaf"
+        },
+        {
+          "hero_key": "kayle",
+          "display_name": "正义天使 凯尔",
+          "english_name": "Kayle"
+        },
+        {
+          "hero_key": "jax",
+          "display_name": "武器大师 贾克斯",
+          "english_name": "Jax"
+        },
+        {
+          "hero_key": "malphite",
+          "display_name": "熔岩巨兽 墨菲特",
+          "english_name": "Malphite"
+        },
+        {
+          "hero_key": "renekton",
+          "display_name": "荒漠屠夫 雷克顿",
+          "english_name": "Renekton"
+        },
+        {
+          "hero_key": "brand",
+          "display_name": "复仇焰魂 布兰德",
+          "english_name": "Brand"
+        },
+        {
+          "hero_key": "lee_sin",
+          "display_name": "盲僧 李青",
+          "english_name": "Lee Sin"
+        },
+        {
+          "hero_key": "skarner",
+          "display_name": "上古领主 斯卡纳",
+          "english_name": "Skarner"
+        },
+        {
+          "hero_key": "pantheon",
+          "display_name": "不屈之枪 潘森",
+          "english_name": "Pantheon"
+        },
+        {
+          "hero_key": "shyvana",
+          "display_name": "龙血武姬 希瓦娜",
+          "english_name": "Shyvana"
+        },
+        {
+          "hero_key": "volibear",
+          "display_name": "不灭狂雷 沃利贝尔",
+          "english_name": "Volibear"
+        },
+        {
+          "hero_key": "darius",
+          "display_name": "诺克萨斯之手 德莱厄斯",
+          "english_name": "Darius"
+        },
+        {
+          "hero_key": "vi",
+          "display_name": "皮城执法官 蔚",
+          "english_name": "Vi"
+        },
+        {
+          "hero_key": "aatrox",
+          "display_name": "暗裔剑魔 亚托克斯",
+          "english_name": "Aatrox"
+        },
+        {
+          "hero_key": "ornn",
+          "display_name": "山隐之焰 奥恩",
+          "english_name": "Ornn"
+        },
+        {
+          "hero_key": "rell",
+          "display_name": "镕铁少女 芮尔",
+          "english_name": "Rell"
+        },
+        {
+          "hero_key": "ambessa",
+          "display_name": "铁血狼母 安蓓萨",
+          "english_name": "Ambessa"
+        },
+        {
+          "hero_key": "zaahen",
+          "display_name": "不落魔锋 亚恒",
+          "english_name": "Zaahen"
+        }
+      ]
+    },
+    {
+      "id": "motion",
+      "title": "Motion Party",
+      "artist": "TikTok Trend",
+      "vibe": "高动能、派对、跳跃",
+      "local_target_stem": "./assets/music/recommended/motion",
+      "accepted_local_files": [
+        "./assets/music/recommended/motion.mp3",
+        "./assets/music/recommended/motion.m4a",
+        "./assets/music/recommended/motion.aac",
+        "./assets/music/recommended/motion.ogg",
+        "./assets/music/recommended/motion.opus",
+        "./assets/music/recommended/motion.wav",
+        "./assets/music/recommended/motion.flac"
+      ],
+      "bilibili_search_url": "https://search.bilibili.com/all?keyword=Motion+Party+TikTok+Trend",
+      "license_status": "needs_user_authorized_local_file",
+      "heroes": [
+        {
+          "hero_key": "tristana",
+          "display_name": "麦林炮手 崔丝塔娜",
+          "english_name": "Tristana"
+        },
+        {
+          "hero_key": "singed",
+          "display_name": "炼金术士 辛吉德",
+          "english_name": "Singed"
+        },
+        {
+          "hero_key": "dr_mundo",
+          "display_name": "祖安狂人 蒙多医生",
+          "english_name": "Dr. Mundo"
+        },
+        {
+          "hero_key": "gragas",
+          "display_name": "酒桶 古拉加斯",
+          "english_name": "Gragas"
+        },
+        {
+          "hero_key": "kog_maw",
+          "display_name": "深渊巨口 克格莫",
+          "english_name": "Kog'Maw"
+        },
+        {
+          "hero_key": "fizz",
+          "display_name": "潮汐海灵 菲兹",
+          "english_name": "Fizz"
+        },
+        {
+          "hero_key": "ziggs",
+          "display_name": "爆破鬼才 吉格斯",
+          "english_name": "Ziggs"
+        },
+        {
+          "hero_key": "zac",
+          "display_name": "生化魔人 扎克",
+          "english_name": "Zac"
+        },
+        {
+          "hero_key": "kled",
+          "display_name": "暴怒骑士 克烈",
+          "english_name": "Kled"
+        },
+        {
+          "hero_key": "nilah",
+          "display_name": "不羁之悦 尼菈",
+          "english_name": "Nilah"
+        }
+      ]
+    },
+    {
+      "id": "everglades",
+      "title": "Everglades",
+      "artist": "AZIEDOESNTEXIST",
+      "vibe": "竞速、野性、肾上腺素",
+      "local_target_stem": "./assets/music/recommended/everglades",
+      "accepted_local_files": [
+        "./assets/music/recommended/everglades.mp3",
+        "./assets/music/recommended/everglades.m4a",
+        "./assets/music/recommended/everglades.aac",
+        "./assets/music/recommended/everglades.ogg",
+        "./assets/music/recommended/everglades.opus",
+        "./assets/music/recommended/everglades.wav",
+        "./assets/music/recommended/everglades.flac"
+      ],
+      "bilibili_search_url": "https://search.bilibili.com/all?keyword=Everglades+AZIEDOESNTEXIST",
+      "license_status": "needs_user_authorized_local_file",
+      "heroes": [
+        {
+          "hero_key": "sivir",
+          "display_name": "战争女神 希维尔",
+          "english_name": "Sivir"
+        },
+        {
+          "hero_key": "rammus",
+          "display_name": "披甲龙龟 拉莫斯",
+          "english_name": "Rammus"
+        },
+        {
+          "hero_key": "corki",
+          "display_name": "英勇投弹手 库奇",
+          "english_name": "Corki"
+        },
+        {
+          "hero_key": "nidalee",
+          "display_name": "狂野女猎手 奈德丽",
+          "english_name": "Nidalee"
+        },
+        {
+          "hero_key": "rengar",
+          "display_name": "傲之追猎者 雷恩加尔",
+          "english_name": "Rengar"
+        },
+        {
+          "hero_key": "hecarim",
+          "display_name": "战争之影 赫卡里姆",
+          "english_name": "Hecarim"
+        },
+        {
+          "hero_key": "quinn",
+          "display_name": "德玛西亚之翼 奎因",
+          "english_name": "Quinn"
+        },
+        {
+          "hero_key": "lucian",
+          "display_name": "圣枪游侠 卢锡安",
+          "english_name": "Lucian"
+        },
+        {
+          "hero_key": "naafiri",
+          "display_name": "百裂冥犬 纳亚菲利",
+          "english_name": "Naafiri"
+        }
+      ]
+    },
+    {
+      "id": "lights_off",
+      "title": "Turn The Lights Off",
+      "artist": "Kato / Jon",
+      "vibe": "关灯、潜行、电子暗色",
+      "local_target_stem": "./assets/music/recommended/lights_off",
+      "accepted_local_files": [
+        "./assets/music/recommended/lights_off.mp3",
+        "./assets/music/recommended/lights_off.m4a",
+        "./assets/music/recommended/lights_off.aac",
+        "./assets/music/recommended/lights_off.ogg",
+        "./assets/music/recommended/lights_off.opus",
+        "./assets/music/recommended/lights_off.wav",
+        "./assets/music/recommended/lights_off.flac"
+      ],
+      "bilibili_search_url": "https://search.bilibili.com/all?keyword=Turn+The+Lights+Off+Kato+%2F+Jon",
+      "license_status": "needs_user_authorized_local_file",
+      "heroes": [
+        {
+          "hero_key": "urgot",
+          "display_name": "无畏战车 厄加特",
+          "english_name": "Urgot"
+        },
+        {
+          "hero_key": "fiddlesticks",
+          "display_name": "远古恐惧 费德提克",
+          "english_name": "Fiddlesticks"
+        },
+        {
+          "hero_key": "warwick",
+          "display_name": "祖安怒兽 沃里克",
+          "english_name": "Warwick"
+        },
+        {
+          "hero_key": "twitch",
+          "display_name": "瘟疫之源 图奇",
+          "english_name": "Twitch"
+        },
+        {
+          "hero_key": "chogath",
+          "display_name": "虚空恐惧 科加斯",
+          "english_name": "Cho'Gath"
+        },
+        {
+          "hero_key": "khazix",
+          "display_name": "虚空掠夺者 卡兹克",
+          "english_name": "Kha'Zix"
+        },
+        {
+          "hero_key": "zed",
+          "display_name": "影流之主 劫",
+          "english_name": "Zed"
+        },
+        {
+          "hero_key": "rek_sai",
+          "display_name": "虚空遁地兽 雷克塞",
+          "english_name": "Rek'Sai"
+        }
+      ]
+    },
+    {
+      "id": "nocturne",
+      "title": "夜曲",
+      "artist": "周杰伦",
+      "vibe": "暗夜、刺杀、宿命",
+      "local_target_stem": "./assets/music/recommended/nocturne",
+      "accepted_local_files": [
+        "./assets/music/recommended/nocturne.mp3",
+        "./assets/music/recommended/nocturne.m4a",
+        "./assets/music/recommended/nocturne.aac",
+        "./assets/music/recommended/nocturne.ogg",
+        "./assets/music/recommended/nocturne.opus",
+        "./assets/music/recommended/nocturne.wav",
+        "./assets/music/recommended/nocturne.flac"
+      ],
+      "bilibili_search_url": "https://search.bilibili.com/all?keyword=%E5%A4%9C%E6%9B%B2+%E5%91%A8%E6%9D%B0%E4%BC%A6",
+      "license_status": "needs_user_authorized_local_file",
+      "heroes": [
+        {
+          "hero_key": "karthus",
+          "display_name": "死亡颂唱者 卡尔萨斯",
+          "english_name": "Karthus"
+        },
+        {
+          "hero_key": "nocturne",
+          "display_name": "永恒梦魇 魔腾",
+          "english_name": "Nocturne"
+        },
+        {
+          "hero_key": "vayne",
+          "display_name": "暗夜猎手 薇恩",
+          "english_name": "Vayne"
+        },
+        {
+          "hero_key": "talon",
+          "display_name": "刀锋之影 泰隆",
+          "english_name": "Talon"
+        },
+        {
+          "hero_key": "diana",
+          "display_name": "皎月女神 黛安娜",
+          "english_name": "Diana"
+        },
+        {
+          "hero_key": "thresh",
+          "display_name": "魂锁典狱长 锤石",
+          "english_name": "Thresh"
+        },
+        {
+          "hero_key": "aphelios",
+          "display_name": "残月之肃 厄斐琉斯",
+          "english_name": "Aphelios"
+        },
+        {
+          "hero_key": "pyke",
+          "display_name": "血港鬼影 派克",
+          "english_name": "Pyke"
+        }
+      ]
+    },
+    {
+      "id": "standing",
+      "title": "Standing Next to You",
+      "artist": "Jung Kook",
+      "vibe": "并肩、守护、节奏感",
+      "local_target_stem": "./assets/music/recommended/standing",
+      "accepted_local_files": [
+        "./assets/music/recommended/standing.mp3",
+        "./assets/music/recommended/standing.m4a",
+        "./assets/music/recommended/standing.aac",
+        "./assets/music/recommended/standing.ogg",
+        "./assets/music/recommended/standing.opus",
+        "./assets/music/recommended/standing.wav",
+        "./assets/music/recommended/standing.flac"
+      ],
+      "bilibili_search_url": "https://search.bilibili.com/all?keyword=Standing+Next+to+You+Jung+Kook",
+      "license_status": "needs_user_authorized_local_file",
+      "heroes": [
+        {
+          "hero_key": "galio",
+          "display_name": "正义巨像 加里奥",
+          "english_name": "Galio"
+        },
+        {
+          "hero_key": "alistar",
+          "display_name": "牛头酋长 阿利斯塔",
+          "english_name": "Alistar"
+        },
+        {
+          "hero_key": "taric",
+          "display_name": "瓦洛兰之盾 塔里克",
+          "english_name": "Taric"
+        },
+        {
+          "hero_key": "jarvan_iv",
+          "display_name": "德玛西亚皇子 嘉文四世",
+          "english_name": "Jarvan IV"
+        },
+        {
+          "hero_key": "poppy",
+          "display_name": "圣锤之毅 波比",
+          "english_name": "Poppy"
+        },
+        {
+          "hero_key": "garen",
+          "display_name": "德玛西亚之力 盖伦",
+          "english_name": "Garen"
+        },
+        {
+          "hero_key": "braum",
+          "display_name": "弗雷尔卓德之心 布隆",
+          "english_name": "Braum"
+        },
+        {
+          "hero_key": "ksante",
+          "display_name": "纳祖芒荣耀 奎桑提",
+          "english_name": "K'Sante"
+        }
+      ]
+    },
+    {
+      "id": "danger",
+      "title": "迷人的危险",
+      "artist": "姚晓棠",
+      "vibe": "危险、诱惑、暗流",
+      "local_target_stem": "./assets/music/recommended/danger",
+      "accepted_local_files": [
+        "./assets/music/recommended/danger.mp3",
+        "./assets/music/recommended/danger.m4a",
+        "./assets/music/recommended/danger.aac",
+        "./assets/music/recommended/danger.ogg",
+        "./assets/music/recommended/danger.opus",
+        "./assets/music/recommended/danger.wav",
+        "./assets/music/recommended/danger.flac"
+      ],
+      "bilibili_search_url": "https://search.bilibili.com/all?keyword=%E8%BF%B7%E4%BA%BA%E7%9A%84%E5%8D%B1%E9%99%A9+%E5%A7%9A%E6%99%93%E6%A3%A0",
+      "license_status": "needs_user_authorized_local_file",
+      "heroes": [
+        {
+          "hero_key": "leblanc",
+          "display_name": "诡术妖姬 乐芙兰",
+          "english_name": "LeBlanc"
+        },
+        {
+          "hero_key": "evelynn",
+          "display_name": "痛苦之拥 伊芙琳",
+          "english_name": "Evelynn"
+        },
+        {
+          "hero_key": "elise",
+          "display_name": "蜘蛛女皇 伊莉丝",
+          "english_name": "Elise"
+        },
+        {
+          "hero_key": "cassiopeia",
+          "display_name": "魔蛇之拥 卡西奥佩娅",
+          "english_name": "Cassiopeia"
+        },
+        {
+          "hero_key": "ahri",
+          "display_name": "九尾妖狐 阿狸",
+          "english_name": "Ahri"
+        },
+        {
+          "hero_key": "tahm_kench",
+          "display_name": "河流之王 塔姆",
+          "english_name": "Tahm Kench"
+        },
+        {
+          "hero_key": "renata",
+          "display_name": "炼金男爵 烈娜塔 · 戈拉斯克",
+          "english_name": "Renata Glasc"
+        }
+      ]
+    },
+    {
+      "id": "space",
+      "title": "space",
+      "artist": "Shakira / Burna Boy",
+      "vibe": "星空、远方、宇宙感",
+      "local_target_stem": "./assets/music/recommended/space",
+      "accepted_local_files": [
+        "./assets/music/recommended/space.mp3",
+        "./assets/music/recommended/space.m4a",
+        "./assets/music/recommended/space.aac",
+        "./assets/music/recommended/space.ogg",
+        "./assets/music/recommended/space.opus",
+        "./assets/music/recommended/space.wav",
+        "./assets/music/recommended/space.flac"
+      ],
+      "bilibili_search_url": "https://search.bilibili.com/all?keyword=space+Shakira+%2F+Burna+Boy",
+      "license_status": "needs_user_authorized_local_file",
+      "heroes": [
+        {
+          "hero_key": "kassadin",
+          "display_name": "虚空行者 卡萨丁",
+          "english_name": "Kassadin"
+        },
+        {
+          "hero_key": "malzahar",
+          "display_name": "虚空先知 玛尔扎哈",
+          "english_name": "Malzahar"
+        },
+        {
+          "hero_key": "xerath",
+          "display_name": "远古巫灵 泽拉斯",
+          "english_name": "Xerath"
+        },
+        {
+          "hero_key": "aurelion_sol",
+          "display_name": "铸星龙王 奥瑞利安·索尔",
+          "english_name": "Aurelion Sol"
+        },
+        {
+          "hero_key": "kaisa",
+          "display_name": "虚空之女 卡莎",
+          "english_name": "Kai'Sa"
+        },
+        {
+          "hero_key": "velkoz",
+          "display_name": "虚空之眼 维克兹",
+          "english_name": "Vel'Koz"
+        },
+        {
+          "hero_key": "bard",
+          "display_name": "星界游神 巴德",
+          "english_name": "Bard"
+        }
+      ]
+    },
+    {
+      "id": "baddie",
+      "title": "Baddie",
+      "artist": "IVE",
+      "vibe": "张扬、锋利、叛逆",
+      "local_target_stem": "./assets/music/recommended/baddie",
+      "accepted_local_files": [
+        "./assets/music/recommended/baddie.mp3",
+        "./assets/music/recommended/baddie.m4a",
+        "./assets/music/recommended/baddie.aac",
+        "./assets/music/recommended/baddie.ogg",
+        "./assets/music/recommended/baddie.opus",
+        "./assets/music/recommended/baddie.wav",
+        "./assets/music/recommended/baddie.flac"
+      ],
+      "bilibili_search_url": "https://search.bilibili.com/all?keyword=Baddie+IVE",
+      "license_status": "needs_user_authorized_local_file",
+      "heroes": [
+        {
+          "hero_key": "miss_fortune",
+          "display_name": "赏金猎人 厄运小姐",
+          "english_name": "Miss Fortune"
+        },
+        {
+          "hero_key": "katarina",
+          "display_name": "不祥之刃 卡特琳娜",
+          "english_name": "Katarina"
+        },
+        {
+          "hero_key": "jinx",
+          "display_name": "暴走萝莉 金克丝",
+          "english_name": "Jinx"
+        },
+        {
+          "hero_key": "qiyana",
+          "display_name": "元素女皇 奇亚娜",
+          "english_name": "Qiyana"
+        },
+        {
+          "hero_key": "samira",
+          "display_name": "沙漠玫瑰 莎弥拉",
+          "english_name": "Samira"
+        }
+      ]
+    },
+    {
+      "id": "iconic",
+      "title": "ICONIC BY MISTAKE",
+      "artist": "LE SSERAFIM / ILLIT / KATSEYE",
+      "vibe": "锋利、时髦、女王感",
+      "local_target_stem": "./assets/music/recommended/iconic",
+      "accepted_local_files": [
+        "./assets/music/recommended/iconic.mp3",
+        "./assets/music/recommended/iconic.m4a",
+        "./assets/music/recommended/iconic.aac",
+        "./assets/music/recommended/iconic.ogg",
+        "./assets/music/recommended/iconic.opus",
+        "./assets/music/recommended/iconic.wav",
+        "./assets/music/recommended/iconic.flac"
+      ],
+      "bilibili_search_url": "https://search.bilibili.com/all?keyword=ICONIC+BY+MISTAKE+LE+SSERAFIM+%2F+ILLIT+%2F+KATSEYE",
+      "license_status": "needs_user_authorized_local_file",
+      "heroes": [
+        {
+          "hero_key": "caitlyn",
+          "display_name": "皮城女警 凯特琳",
+          "english_name": "Caitlyn"
+        },
+        {
+          "hero_key": "akali",
+          "display_name": "离群之刺 阿卡丽",
+          "english_name": "Akali"
+        },
+        {
+          "hero_key": "fiora",
+          "display_name": "无双剑姬 菲奥娜",
+          "english_name": "Fiora"
+        },
+        {
+          "hero_key": "draven",
+          "display_name": "荣耀行刑官 德莱文",
+          "english_name": "Draven"
+        },
+        {
+          "hero_key": "camille",
+          "display_name": "青钢影 卡蜜尔",
+          "english_name": "Camille"
+        }
+      ]
+    },
+    {
+      "id": "night_dancer",
+      "title": "NIGHT DANCER",
+      "artist": "imase",
+      "vibe": "夜色、轻快、卡点感强",
+      "local_target_stem": "./assets/music/recommended/night_dancer",
+      "accepted_local_files": [
+        "./assets/music/recommended/night_dancer.mp3",
+        "./assets/music/recommended/night_dancer.m4a",
+        "./assets/music/recommended/night_dancer.aac",
+        "./assets/music/recommended/night_dancer.ogg",
+        "./assets/music/recommended/night_dancer.opus",
+        "./assets/music/recommended/night_dancer.wav",
+        "./assets/music/recommended/night_dancer.flac"
+      ],
+      "bilibili_search_url": "https://search.bilibili.com/all?keyword=NIGHT+DANCER+imase",
+      "license_status": "needs_user_authorized_local_file",
+      "heroes": [
+        {
+          "hero_key": "twisted_fate",
+          "display_name": "卡牌大师 崔斯特",
+          "english_name": "Twisted Fate"
+        },
+        {
+          "hero_key": "ezreal",
+          "display_name": "探险家 伊泽瑞尔",
+          "english_name": "Ezreal"
+        },
+        {
+          "hero_key": "kennen",
+          "display_name": "狂暴之心 凯南",
+          "english_name": "Kennen"
+        },
+        {
+          "hero_key": "seraphine",
+          "display_name": "星籁歌姬 萨勒芬妮",
+          "english_name": "Seraphine"
+        },
+        {
+          "hero_key": "ekko",
+          "display_name": "时间刺客 艾克",
+          "english_name": "Ekko"
+        }
+      ]
+    },
+    {
+      "id": "online",
+      "title": "Always Online",
+      "artist": "林俊杰",
+      "vibe": "科技感、连接感、轻快",
+      "local_target_stem": "./assets/music/recommended/online",
+      "accepted_local_files": [
+        "./assets/music/recommended/online.mp3",
+        "./assets/music/recommended/online.m4a",
+        "./assets/music/recommended/online.aac",
+        "./assets/music/recommended/online.ogg",
+        "./assets/music/recommended/online.opus",
+        "./assets/music/recommended/online.wav",
+        "./assets/music/recommended/online.flac"
+      ],
+      "bilibili_search_url": "https://search.bilibili.com/all?keyword=Always+Online+%E6%9E%97%E4%BF%8A%E6%9D%B0",
+      "license_status": "needs_user_authorized_local_file",
+      "heroes": [
+        {
+          "hero_key": "ryze",
+          "display_name": "符文法师 瑞兹",
+          "english_name": "Ryze"
+        },
+        {
+          "hero_key": "blitzcrank",
+          "display_name": "蒸汽机器人 布里茨",
+          "english_name": "Blitzcrank"
+        },
+        {
+          "hero_key": "orianna",
+          "display_name": "发条魔灵 奥莉安娜",
+          "english_name": "Orianna"
+        },
+        {
+          "hero_key": "heimerdinger",
+          "display_name": "大发明家 黑默丁格",
+          "english_name": "Heimerdinger"
+        },
+        {
+          "hero_key": "viktor",
+          "display_name": "奥术先驱 维克托",
+          "english_name": "Viktor"
+        }
+      ]
+    },
+    {
+      "id": "red_blue",
+      "title": "赤と青",
+      "artist": "ROTH BART BARON",
+      "vibe": "双面、冷暖对照、宿命",
+      "local_target_stem": "./assets/music/recommended/red_blue",
+      "accepted_local_files": [
+        "./assets/music/recommended/red_blue.mp3",
+        "./assets/music/recommended/red_blue.m4a",
+        "./assets/music/recommended/red_blue.aac",
+        "./assets/music/recommended/red_blue.ogg",
+        "./assets/music/recommended/red_blue.opus",
+        "./assets/music/recommended/red_blue.wav",
+        "./assets/music/recommended/red_blue.flac"
+      ],
+      "bilibili_search_url": "https://search.bilibili.com/all?keyword=%E8%B5%A4%E3%81%A8%E9%9D%92+ROTH+BART+BARON",
+      "license_status": "needs_user_authorized_local_file",
+      "heroes": [
+        {
+          "hero_key": "ashe",
+          "display_name": "寒冰射手 艾希",
+          "english_name": "Ashe"
+        },
+        {
+          "hero_key": "anivia",
+          "display_name": "冰晶凤凰 艾尼维亚",
+          "english_name": "Anivia"
+        },
+        {
+          "hero_key": "sejuani",
+          "display_name": "北地之怒 瑟庄妮",
+          "english_name": "Sejuani"
+        },
+        {
+          "hero_key": "kayn",
+          "display_name": "影流之镰 凯隐",
+          "english_name": "Kayn"
+        },
+        {
+          "hero_key": "yone",
+          "display_name": "封魔剑魂 永恩",
+          "english_name": "Yone"
+        }
+      ]
+    },
+    {
+      "id": "sunny",
+      "title": "晴天",
+      "artist": "周杰伦",
+      "vibe": "明亮、青春、治愈",
+      "local_target_stem": "./assets/music/recommended/sunny",
+      "accepted_local_files": [
+        "./assets/music/recommended/sunny.mp3",
+        "./assets/music/recommended/sunny.m4a",
+        "./assets/music/recommended/sunny.aac",
+        "./assets/music/recommended/sunny.ogg",
+        "./assets/music/recommended/sunny.opus",
+        "./assets/music/recommended/sunny.wav",
+        "./assets/music/recommended/sunny.flac"
+      ],
+      "bilibili_search_url": "https://search.bilibili.com/all?keyword=%E6%99%B4%E5%A4%A9+%E5%91%A8%E6%9D%B0%E4%BC%A6",
+      "license_status": "needs_user_authorized_local_file",
+      "heroes": [
+        {
+          "hero_key": "janna",
+          "display_name": "风暴之怒 迦娜",
+          "english_name": "Janna"
+        },
+        {
+          "hero_key": "leona",
+          "display_name": "曙光女神 蕾欧娜",
+          "english_name": "Leona"
+        },
+        {
+          "hero_key": "lux",
+          "display_name": "光辉女郎 拉克丝",
+          "english_name": "Lux"
+        },
+        {
+          "hero_key": "yunara",
+          "display_name": "不破之誓 芸阿娜",
+          "english_name": "Yunara"
+        },
+        {
+          "hero_key": "milio",
+          "display_name": "明烛 米利欧",
+          "english_name": "Milio"
+        }
+      ]
+    },
+    {
+      "id": "ballad",
+      "title": "Баллада",
+      "artist": "Xcho / Мот",
+      "vibe": "异域、阴影、低沉",
+      "local_target_stem": "./assets/music/recommended/ballad",
+      "accepted_local_files": [
+        "./assets/music/recommended/ballad.mp3",
+        "./assets/music/recommended/ballad.m4a",
+        "./assets/music/recommended/ballad.aac",
+        "./assets/music/recommended/ballad.ogg",
+        "./assets/music/recommended/ballad.opus",
+        "./assets/music/recommended/ballad.wav",
+        "./assets/music/recommended/ballad.flac"
+      ],
+      "bilibili_search_url": "https://search.bilibili.com/all?keyword=%D0%91%D0%B0%D0%BB%D0%BB%D0%B0%D0%B4%D0%B0+Xcho+%2F+%D0%9C%D0%BE%D1%82",
+      "license_status": "needs_user_authorized_local_file",
+      "heroes": [
+        {
+          "hero_key": "vladimir",
+          "display_name": "猩红收割者 弗拉基米尔",
+          "english_name": "Vladimir"
+        },
+        {
+          "hero_key": "swain",
+          "display_name": "诺克萨斯统领 斯维因",
+          "english_name": "Swain"
+        },
+        {
+          "hero_key": "mordekaiser",
+          "display_name": "铁铠冥魂 莫德凯撒",
+          "english_name": "Mordekaiser"
+        },
+        {
+          "hero_key": "nautilus",
+          "display_name": "深海泰坦 诺提勒斯",
+          "english_name": "Nautilus"
+        }
+      ]
+    },
+    {
+      "id": "drama",
+      "title": "Drama",
+      "artist": "aespa",
+      "vibe": "戏剧、强势、冷酷",
+      "local_target_stem": "./assets/music/recommended/drama",
+      "accepted_local_files": [
+        "./assets/music/recommended/drama.mp3",
+        "./assets/music/recommended/drama.m4a",
+        "./assets/music/recommended/drama.aac",
+        "./assets/music/recommended/drama.ogg",
+        "./assets/music/recommended/drama.opus",
+        "./assets/music/recommended/drama.wav",
+        "./assets/music/recommended/drama.flac"
+      ],
+      "bilibili_search_url": "https://search.bilibili.com/all?keyword=Drama+aespa",
+      "license_status": "needs_user_authorized_local_file",
+      "heroes": [
+        {
+          "hero_key": "shaco",
+          "display_name": "恶魔小丑 萨科",
+          "english_name": "Shaco"
+        },
+        {
+          "hero_key": "veigar",
+          "display_name": "邪恶小法师 维迦",
+          "english_name": "Veigar"
+        },
+        {
+          "hero_key": "syndra",
+          "display_name": "暗黑元首 辛德拉",
+          "english_name": "Syndra"
+        },
+        {
+          "hero_key": "belveth",
+          "display_name": "虚空女皇 卑尔维斯",
+          "english_name": "Bel'Veth"
+        }
+      ]
+    },
+    {
+      "id": "inn",
+      "title": "红尘客栈",
+      "artist": "周杰伦",
+      "vibe": "江湖、剑客、侠气",
+      "local_target_stem": "./assets/music/recommended/inn",
+      "accepted_local_files": [
+        "./assets/music/recommended/inn.mp3",
+        "./assets/music/recommended/inn.m4a",
+        "./assets/music/recommended/inn.aac",
+        "./assets/music/recommended/inn.ogg",
+        "./assets/music/recommended/inn.opus",
+        "./assets/music/recommended/inn.wav",
+        "./assets/music/recommended/inn.flac"
+      ],
+      "bilibili_search_url": "https://search.bilibili.com/all?keyword=%E7%BA%A2%E5%B0%98%E5%AE%A2%E6%A0%88+%E5%91%A8%E6%9D%B0%E4%BC%A6",
+      "license_status": "needs_user_authorized_local_file",
+      "heroes": [
+        {
+          "hero_key": "xin_zhao",
+          "display_name": "德邦总管 赵信",
+          "english_name": "Xin Zhao"
+        },
+        {
+          "hero_key": "master_yi",
+          "display_name": "无极剑圣 易",
+          "english_name": "Master Yi"
+        },
+        {
+          "hero_key": "irelia",
+          "display_name": "刀锋舞者 艾瑞莉娅",
+          "english_name": "Irelia"
+        },
+        {
+          "hero_key": "monkey_king",
+          "display_name": "齐天大圣 孙悟空",
+          "english_name": "Wukong"
+        }
+      ]
+    },
+    {
+      "id": "long_road",
+      "title": "人生路漫漫 (Live)",
+      "artist": "孙楠 / 白小白 / 加木",
+      "vibe": "远行、厚重、史诗旅程",
+      "local_target_stem": "./assets/music/recommended/long_road",
+      "accepted_local_files": [
+        "./assets/music/recommended/long_road.mp3",
+        "./assets/music/recommended/long_road.m4a",
+        "./assets/music/recommended/long_road.aac",
+        "./assets/music/recommended/long_road.ogg",
+        "./assets/music/recommended/long_road.opus",
+        "./assets/music/recommended/long_road.wav",
+        "./assets/music/recommended/long_road.flac"
+      ],
+      "bilibili_search_url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E7%94%9F%E8%B7%AF%E6%BC%AB%E6%BC%AB+%28Live%29+%E5%AD%99%E6%A5%A0+%2F+%E7%99%BD%E5%B0%8F%E7%99%BD+%2F+%E5%8A%A0%E6%9C%A8",
+      "license_status": "needs_user_authorized_local_file",
+      "heroes": [
+        {
+          "hero_key": "gangplank",
+          "display_name": "海洋之灾 普朗克",
+          "english_name": "Gangplank"
+        },
+        {
+          "hero_key": "nasus",
+          "display_name": "沙漠死神 内瑟斯",
+          "english_name": "Nasus"
+        },
+        {
+          "hero_key": "taliyah",
+          "display_name": "岩雀 塔莉垭",
+          "english_name": "Taliyah"
+        },
+        {
+          "hero_key": "illaoi",
+          "display_name": "海兽祭司 俄洛伊",
+          "english_name": "Illaoi"
+        }
+      ]
+    },
+    {
+      "id": "not_over",
+      "title": "It Ain't Over 'Til It's Over",
+      "artist": "Lenny Kravitz",
+      "vibe": "坚韧、续命、反打",
+      "local_target_stem": "./assets/music/recommended/not_over",
+      "accepted_local_files": [
+        "./assets/music/recommended/not_over.mp3",
+        "./assets/music/recommended/not_over.m4a",
+        "./assets/music/recommended/not_over.aac",
+        "./assets/music/recommended/not_over.ogg",
+        "./assets/music/recommended/not_over.opus",
+        "./assets/music/recommended/not_over.wav",
+        "./assets/music/recommended/not_over.flac"
+      ],
+      "bilibili_search_url": "https://search.bilibili.com/all?keyword=It+Ain%27t+Over+%27Til+It%27s+Over+Lenny+Kravitz",
+      "license_status": "needs_user_authorized_local_file",
+      "heroes": [
+        {
+          "hero_key": "sion",
+          "display_name": "亡灵战神 赛恩",
+          "english_name": "Sion"
+        },
+        {
+          "hero_key": "maokai",
+          "display_name": "扭曲树精 茂凯",
+          "english_name": "Maokai"
+        },
+        {
+          "hero_key": "udyr",
+          "display_name": "兽灵行者 乌迪尔",
+          "english_name": "Udyr"
+        },
+        {
+          "hero_key": "senna",
+          "display_name": "涤魂圣枪 赛娜",
+          "english_name": "Senna"
+        }
+      ]
+    },
+    {
+      "id": "sugar",
+      "title": "Sugar On My Tongue",
+      "artist": "TikTok Trend",
+      "vibe": "甜、俏皮、带一点危险",
+      "local_target_stem": "./assets/music/recommended/sugar",
+      "accepted_local_files": [
+        "./assets/music/recommended/sugar.mp3",
+        "./assets/music/recommended/sugar.m4a",
+        "./assets/music/recommended/sugar.aac",
+        "./assets/music/recommended/sugar.ogg",
+        "./assets/music/recommended/sugar.opus",
+        "./assets/music/recommended/sugar.wav",
+        "./assets/music/recommended/sugar.flac"
+      ],
+      "bilibili_search_url": "https://search.bilibili.com/all?keyword=Sugar+On+My+Tongue+TikTok+Trend",
+      "license_status": "needs_user_authorized_local_file",
+      "heroes": [
+        {
+          "hero_key": "annie",
+          "display_name": "黑暗之女 安妮",
+          "english_name": "Annie"
+        },
+        {
+          "hero_key": "lulu",
+          "display_name": "仙灵女巫 璐璐",
+          "english_name": "Lulu"
+        },
+        {
+          "hero_key": "gwen",
+          "display_name": "灵罗娃娃 格温",
+          "english_name": "Gwen"
+        },
+        {
+          "hero_key": "smolder",
+          "display_name": "炽炎雏龙 斯莫德",
+          "english_name": "Smolder"
+        }
+      ]
+    },
+    {
+      "id": "cinderella",
+      "title": "Cinderella",
+      "artist": "TikTok Trend",
+      "vibe": "梦幻、奇遇、童话感",
+      "local_target_stem": "./assets/music/recommended/cinderella",
+      "accepted_local_files": [
+        "./assets/music/recommended/cinderella.mp3",
+        "./assets/music/recommended/cinderella.m4a",
+        "./assets/music/recommended/cinderella.aac",
+        "./assets/music/recommended/cinderella.ogg",
+        "./assets/music/recommended/cinderella.opus",
+        "./assets/music/recommended/cinderella.wav",
+        "./assets/music/recommended/cinderella.flac"
+      ],
+      "bilibili_search_url": "https://search.bilibili.com/all?keyword=Cinderella+TikTok+Trend",
+      "license_status": "needs_user_authorized_local_file",
+      "heroes": [
+        {
+          "hero_key": "zoe",
+          "display_name": "暮光星灵 佐伊",
+          "english_name": "Zoe"
+        },
+        {
+          "hero_key": "lillia",
+          "display_name": "含羞蓓蕾 莉莉娅",
+          "english_name": "Lillia"
+        },
+        {
+          "hero_key": "aurora",
+          "display_name": "双界灵兔 阿萝拉",
+          "english_name": "Aurora"
+        }
+      ]
+    },
+    {
+      "id": "cloudy",
+      "title": "阴天",
+      "artist": "莫文蔚",
+      "vibe": "压抑、冷调、情绪拉满",
+      "local_target_stem": "./assets/music/recommended/cloudy",
+      "accepted_local_files": [
+        "./assets/music/recommended/cloudy.mp3",
+        "./assets/music/recommended/cloudy.m4a",
+        "./assets/music/recommended/cloudy.aac",
+        "./assets/music/recommended/cloudy.ogg",
+        "./assets/music/recommended/cloudy.opus",
+        "./assets/music/recommended/cloudy.wav",
+        "./assets/music/recommended/cloudy.flac"
+      ],
+      "bilibili_search_url": "https://search.bilibili.com/all?keyword=%E9%98%B4%E5%A4%A9+%E8%8E%AB%E6%96%87%E8%94%9A",
+      "license_status": "needs_user_authorized_local_file",
+      "heroes": [
+        {
+          "hero_key": "morgana",
+          "display_name": "堕落天使 莫甘娜",
+          "english_name": "Morgana"
+        },
+        {
+          "hero_key": "lissandra",
+          "display_name": "冰霜女巫 丽桑卓",
+          "english_name": "Lissandra"
+        },
+        {
+          "hero_key": "vex",
+          "display_name": "愁云使者 薇古丝",
+          "english_name": "Vex"
+        }
+      ]
+    },
+    {
+      "id": "crazy_love",
+      "title": "为爱痴狂2026 (想要问问你敢不敢)",
+      "artist": "金志文",
+      "vibe": "热血、执拗、冲锋",
+      "local_target_stem": "./assets/music/recommended/crazy_love",
+      "accepted_local_files": [
+        "./assets/music/recommended/crazy_love.mp3",
+        "./assets/music/recommended/crazy_love.m4a",
+        "./assets/music/recommended/crazy_love.aac",
+        "./assets/music/recommended/crazy_love.ogg",
+        "./assets/music/recommended/crazy_love.opus",
+        "./assets/music/recommended/crazy_love.wav",
+        "./assets/music/recommended/crazy_love.flac"
+      ],
+      "bilibili_search_url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E7%88%B1%E7%97%B4%E7%8B%822026+%28%E6%83%B3%E8%A6%81%E9%97%AE%E9%97%AE%E4%BD%A0%E6%95%A2%E4%B8%8D%E6%95%A2%29+%E9%87%91%E5%BF%97%E6%96%87",
+      "license_status": "needs_user_authorized_local_file",
+      "heroes": [
+        {
+          "hero_key": "tryndamere",
+          "display_name": "蛮族之王 泰达米尔",
+          "english_name": "Tryndamere"
+        },
+        {
+          "hero_key": "sylas",
+          "display_name": "解脱者 塞拉斯",
+          "english_name": "Sylas"
+        },
+        {
+          "hero_key": "sett",
+          "display_name": "腕豪 瑟提",
+          "english_name": "Sett"
+        }
+      ]
+    },
+    {
+      "id": "my_way",
+      "title": "Reno My Way",
+      "artist": "宋雨琦 (YUQI)",
+      "vibe": "酷感、速度、未来",
+      "local_target_stem": "./assets/music/recommended/my_way",
+      "accepted_local_files": [
+        "./assets/music/recommended/my_way.mp3",
+        "./assets/music/recommended/my_way.m4a",
+        "./assets/music/recommended/my_way.aac",
+        "./assets/music/recommended/my_way.ogg",
+        "./assets/music/recommended/my_way.opus",
+        "./assets/music/recommended/my_way.wav",
+        "./assets/music/recommended/my_way.flac"
+      ],
+      "bilibili_search_url": "https://search.bilibili.com/all?keyword=Reno+My+Way+%E5%AE%8B%E9%9B%A8%E7%90%A6+%28YUQI%29",
+      "license_status": "needs_user_authorized_local_file",
+      "heroes": [
+        {
+          "hero_key": "rumble",
+          "display_name": "机械公敌 兰博",
+          "english_name": "Rumble"
+        },
+        {
+          "hero_key": "jayce",
+          "display_name": "未来守护者 杰斯",
+          "english_name": "Jayce"
+        },
+        {
+          "hero_key": "zeri",
+          "display_name": "祖安花火 泽丽",
+          "english_name": "Zeri"
+        }
+      ]
+    },
+    {
+      "id": "special",
+      "title": "特别的人",
+      "artist": "方大同",
+      "vibe": "守护、温暖、治愈",
+      "local_target_stem": "./assets/music/recommended/special",
+      "accepted_local_files": [
+        "./assets/music/recommended/special.mp3",
+        "./assets/music/recommended/special.m4a",
+        "./assets/music/recommended/special.aac",
+        "./assets/music/recommended/special.ogg",
+        "./assets/music/recommended/special.opus",
+        "./assets/music/recommended/special.wav",
+        "./assets/music/recommended/special.flac"
+      ],
+      "bilibili_search_url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E5%88%AB%E7%9A%84%E4%BA%BA+%E6%96%B9%E5%A4%A7%E5%90%8C",
+      "license_status": "needs_user_authorized_local_file",
+      "heroes": [
+        {
+          "hero_key": "soraka",
+          "display_name": "众星之子 索拉卡",
+          "english_name": "Soraka"
+        },
+        {
+          "hero_key": "sona",
+          "display_name": "琴瑟仙女 娑娜",
+          "english_name": "Sona"
+        },
+        {
+          "hero_key": "ivern",
+          "display_name": "翠神 艾翁",
+          "english_name": "Ivern"
+        }
+      ]
+    },
+    {
+      "id": "appear_leave",
+      "title": "出现又离开 (Live)",
+      "artist": "梁博",
+      "vibe": "浪人、落寞、离去",
+      "local_target_stem": "./assets/music/recommended/appear_leave",
+      "accepted_local_files": [
+        "./assets/music/recommended/appear_leave.mp3",
+        "./assets/music/recommended/appear_leave.m4a",
+        "./assets/music/recommended/appear_leave.aac",
+        "./assets/music/recommended/appear_leave.ogg",
+        "./assets/music/recommended/appear_leave.opus",
+        "./assets/music/recommended/appear_leave.wav",
+        "./assets/music/recommended/appear_leave.flac"
+      ],
+      "bilibili_search_url": "https://search.bilibili.com/all?keyword=%E5%87%BA%E7%8E%B0%E5%8F%88%E7%A6%BB%E5%BC%80+%28Live%29+%E6%A2%81%E5%8D%9A",
+      "license_status": "needs_user_authorized_local_file",
+      "heroes": [
+        {
+          "hero_key": "riven",
+          "display_name": "放逐之刃 锐雯",
+          "english_name": "Riven"
+        },
+        {
+          "hero_key": "yasuo",
+          "display_name": "疾风剑豪 亚索",
+          "english_name": "Yasuo"
+        }
+      ]
+    },
+    {
+      "id": "balalaika",
+      "title": "巴拉莱卡 (The Rod) (Live)",
+      "artist": "张靓颖 / 陈楚生",
+      "vibe": "史诗、民谣张力、远征",
+      "local_target_stem": "./assets/music/recommended/balalaika",
+      "accepted_local_files": [
+        "./assets/music/recommended/balalaika.mp3",
+        "./assets/music/recommended/balalaika.m4a",
+        "./assets/music/recommended/balalaika.aac",
+        "./assets/music/recommended/balalaika.ogg",
+        "./assets/music/recommended/balalaika.opus",
+        "./assets/music/recommended/balalaika.wav",
+        "./assets/music/recommended/balalaika.flac"
+      ],
+      "bilibili_search_url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E6%8B%89%E8%8E%B1%E5%8D%A1+%28The+Rod%29+%28Live%29+%E5%BC%A0%E9%9D%93%E9%A2%96+%2F+%E9%99%88%E6%A5%9A%E7%94%9F",
+      "license_status": "needs_user_authorized_local_file",
+      "heroes": [
+        {
+          "hero_key": "trundle",
+          "display_name": "巨魔之王 特朗德尔",
+          "english_name": "Trundle"
+        },
+        {
+          "hero_key": "azir",
+          "display_name": "沙漠皇帝 阿兹尔",
+          "english_name": "Azir"
+        }
+      ]
+    },
+    {
+      "id": "heart_cloud",
+      "title": "心云",
+      "artist": "半吨兄弟",
+      "vibe": "云、风、守护、轻柔",
+      "local_target_stem": "./assets/music/recommended/heart_cloud",
+      "accepted_local_files": [
+        "./assets/music/recommended/heart_cloud.mp3",
+        "./assets/music/recommended/heart_cloud.m4a",
+        "./assets/music/recommended/heart_cloud.aac",
+        "./assets/music/recommended/heart_cloud.ogg",
+        "./assets/music/recommended/heart_cloud.opus",
+        "./assets/music/recommended/heart_cloud.wav",
+        "./assets/music/recommended/heart_cloud.flac"
+      ],
+      "bilibili_search_url": "https://search.bilibili.com/all?keyword=%E5%BF%83%E4%BA%91+%E5%8D%8A%E5%90%A8%E5%85%84%E5%BC%9F",
+      "license_status": "needs_user_authorized_local_file",
+      "heroes": [
+        {
+          "hero_key": "karma",
+          "display_name": "天启者 卡尔玛",
+          "english_name": "Karma"
+        },
+        {
+          "hero_key": "shen",
+          "display_name": "暮光之眼 慎",
+          "english_name": "Shen"
+        }
+      ]
+    },
+    {
+      "id": "later_us",
+      "title": "后来的我们",
+      "artist": "五月天",
+      "vibe": "遗憾、失去、宿命感",
+      "local_target_stem": "./assets/music/recommended/later_us",
+      "accepted_local_files": [
+        "./assets/music/recommended/later_us.mp3",
+        "./assets/music/recommended/later_us.m4a",
+        "./assets/music/recommended/later_us.aac",
+        "./assets/music/recommended/later_us.ogg",
+        "./assets/music/recommended/later_us.opus",
+        "./assets/music/recommended/later_us.wav",
+        "./assets/music/recommended/later_us.flac"
+      ],
+      "bilibili_search_url": "https://search.bilibili.com/all?keyword=%E5%90%8E%E6%9D%A5%E7%9A%84%E6%88%91%E4%BB%AC+%E4%BA%94%E6%9C%88%E5%A4%A9",
+      "license_status": "needs_user_authorized_local_file",
+      "heroes": [
+        {
+          "hero_key": "yorick",
+          "display_name": "牧魂人 约里克",
+          "english_name": "Yorick"
+        },
+        {
+          "hero_key": "viego",
+          "display_name": "破败之王 佛耶戈",
+          "english_name": "Viego"
+        }
+      ]
+    },
+    {
+      "id": "lover",
+      "title": "恋人",
+      "artist": "李荣浩",
+      "vibe": "浪漫、双人线、轻松律动",
+      "local_target_stem": "./assets/music/recommended/lover",
+      "accepted_local_files": [
+        "./assets/music/recommended/lover.mp3",
+        "./assets/music/recommended/lover.m4a",
+        "./assets/music/recommended/lover.aac",
+        "./assets/music/recommended/lover.ogg",
+        "./assets/music/recommended/lover.opus",
+        "./assets/music/recommended/lover.wav",
+        "./assets/music/recommended/lover.flac"
+      ],
+      "bilibili_search_url": "https://search.bilibili.com/all?keyword=%E6%81%8B%E4%BA%BA+%E6%9D%8E%E8%8D%A3%E6%B5%A9",
+      "license_status": "needs_user_authorized_local_file",
+      "heroes": [
+        {
+          "hero_key": "rakan",
+          "display_name": "幻翎 洛",
+          "english_name": "Rakan"
+        },
+        {
+          "hero_key": "xayah",
+          "display_name": "逆羽 霞",
+          "english_name": "Xayah"
+        }
+      ]
+    },
+    {
+      "id": "no_broke",
+      "title": "No Broke Boys",
+      "artist": "Disco Lines / Tinashe",
+      "vibe": "潇洒、节奏、都市狠劲",
+      "local_target_stem": "./assets/music/recommended/no_broke",
+      "accepted_local_files": [
+        "./assets/music/recommended/no_broke.mp3",
+        "./assets/music/recommended/no_broke.m4a",
+        "./assets/music/recommended/no_broke.aac",
+        "./assets/music/recommended/no_broke.ogg",
+        "./assets/music/recommended/no_broke.opus",
+        "./assets/music/recommended/no_broke.wav",
+        "./assets/music/recommended/no_broke.flac"
+      ],
+      "bilibili_search_url": "https://search.bilibili.com/all?keyword=No+Broke+Boys+Disco+Lines+%2F+Tinashe",
+      "license_status": "needs_user_authorized_local_file",
+      "heroes": [
+        {
+          "hero_key": "graves",
+          "display_name": "法外狂徒 格雷福斯",
+          "english_name": "Graves"
+        },
+        {
+          "hero_key": "akshan",
+          "display_name": "影哨 阿克尚",
+          "english_name": "Akshan"
+        }
+      ]
+    },
+    {
+      "id": "peach",
+      "title": "十里桃花 待嫁的年华 (雷鬼R&B)",
+      "artist": "贝利伢",
+      "vibe": "花影、灵动、东方甜感",
+      "local_target_stem": "./assets/music/recommended/peach",
+      "accepted_local_files": [
+        "./assets/music/recommended/peach.mp3",
+        "./assets/music/recommended/peach.m4a",
+        "./assets/music/recommended/peach.aac",
+        "./assets/music/recommended/peach.ogg",
+        "./assets/music/recommended/peach.opus",
+        "./assets/music/recommended/peach.wav",
+        "./assets/music/recommended/peach.flac"
+      ],
+      "bilibili_search_url": "https://search.bilibili.com/all?keyword=%E5%8D%81%E9%87%8C%E6%A1%83%E8%8A%B1+%E5%BE%85%E5%AB%81%E7%9A%84%E5%B9%B4%E5%8D%8E+%28%E9%9B%B7%E9%AC%BCR%26B%29+%E8%B4%9D%E5%88%A9%E4%BC%A2",
+      "license_status": "needs_user_authorized_local_file",
+      "heroes": [
+        {
+          "hero_key": "zyra",
+          "display_name": "荆棘之兴 婕拉",
+          "english_name": "Zyra"
+        },
+        {
+          "hero_key": "neeko",
+          "display_name": "万花通灵 妮蔻",
+          "english_name": "Neeko"
+        }
+      ]
+    },
+    {
+      "id": "stranded",
+      "title": "搁浅",
+      "artist": "周杰伦",
+      "vibe": "孤独、执念、破碎感",
+      "local_target_stem": "./assets/music/recommended/stranded",
+      "accepted_local_files": [
+        "./assets/music/recommended/stranded.mp3",
+        "./assets/music/recommended/stranded.m4a",
+        "./assets/music/recommended/stranded.aac",
+        "./assets/music/recommended/stranded.ogg",
+        "./assets/music/recommended/stranded.opus",
+        "./assets/music/recommended/stranded.wav",
+        "./assets/music/recommended/stranded.flac"
+      ],
+      "bilibili_search_url": "https://search.bilibili.com/all?keyword=%E6%90%81%E6%B5%85+%E5%91%A8%E6%9D%B0%E4%BC%A6",
+      "license_status": "needs_user_authorized_local_file",
+      "heroes": [
+        {
+          "hero_key": "varus",
+          "display_name": "惩戒之箭 韦鲁斯",
+          "english_name": "Varus"
+        },
+        {
+          "hero_key": "kalista",
+          "display_name": "复仇之矛 卡莉丝塔",
+          "english_name": "Kalista"
+        }
+      ]
+    },
+    {
+      "id": "young",
+      "title": "Young, Dumb & Broke",
+      "artist": "Khalid",
+      "vibe": "少年、伙伴、轻松",
+      "local_target_stem": "./assets/music/recommended/young",
+      "accepted_local_files": [
+        "./assets/music/recommended/young.mp3",
+        "./assets/music/recommended/young.m4a",
+        "./assets/music/recommended/young.aac",
+        "./assets/music/recommended/young.ogg",
+        "./assets/music/recommended/young.opus",
+        "./assets/music/recommended/young.wav",
+        "./assets/music/recommended/young.flac"
+      ],
+      "bilibili_search_url": "https://search.bilibili.com/all?keyword=Young%2C+Dumb+%26+Broke+Khalid",
+      "license_status": "needs_user_authorized_local_file",
+      "heroes": [
+        {
+          "hero_key": "nunu",
+          "display_name": "雪原双子 努努和威朗普",
+          "english_name": "Nunu & Willump"
+        },
+        {
+          "hero_key": "gnar",
+          "display_name": "迷失之牙 纳尔",
+          "english_name": "Gnar"
+        }
+      ]
+    },
+    {
+      "id": "actor",
+      "title": "演员",
+      "artist": "薛之谦",
+      "vibe": "戏剧、伪装、舞台感",
+      "local_target_stem": "./assets/music/recommended/actor",
+      "accepted_local_files": [
+        "./assets/music/recommended/actor.mp3",
+        "./assets/music/recommended/actor.m4a",
+        "./assets/music/recommended/actor.aac",
+        "./assets/music/recommended/actor.ogg",
+        "./assets/music/recommended/actor.opus",
+        "./assets/music/recommended/actor.wav",
+        "./assets/music/recommended/actor.flac"
+      ],
+      "bilibili_search_url": "https://search.bilibili.com/all?keyword=%E6%BC%94%E5%91%98+%E8%96%9B%E4%B9%8B%E8%B0%A6",
+      "license_status": "needs_user_authorized_local_file",
+      "heroes": [
+        {
+          "hero_key": "jhin",
+          "display_name": "戏命师 烬",
+          "english_name": "Jhin"
+        }
+      ]
+    },
+    {
+      "id": "delilah",
+      "title": "Hey There Delilah",
+      "artist": "Plain White T's",
+      "vibe": "温柔、陪伴、轻声告白",
+      "local_target_stem": "./assets/music/recommended/delilah",
+      "accepted_local_files": [
+        "./assets/music/recommended/delilah.mp3",
+        "./assets/music/recommended/delilah.m4a",
+        "./assets/music/recommended/delilah.aac",
+        "./assets/music/recommended/delilah.ogg",
+        "./assets/music/recommended/delilah.opus",
+        "./assets/music/recommended/delilah.wav",
+        "./assets/music/recommended/delilah.flac"
+      ],
+      "bilibili_search_url": "https://search.bilibili.com/all?keyword=Hey+There+Delilah+Plain+White+T%27s",
+      "license_status": "needs_user_authorized_local_file",
+      "heroes": [
+        {
+          "hero_key": "yuumi",
+          "display_name": "魔法猫咪 悠米",
+          "english_name": "Yuumi"
+        }
+      ]
+    },
+    {
+      "id": "dont_cry",
+      "title": "我不哭",
+      "artist": "王栎鑫",
+      "vibe": "强忍、悲伤、硬撑",
+      "local_target_stem": "./assets/music/recommended/dont_cry",
+      "accepted_local_files": [
+        "./assets/music/recommended/dont_cry.mp3",
+        "./assets/music/recommended/dont_cry.m4a",
+        "./assets/music/recommended/dont_cry.aac",
+        "./assets/music/recommended/dont_cry.ogg",
+        "./assets/music/recommended/dont_cry.opus",
+        "./assets/music/recommended/dont_cry.wav",
+        "./assets/music/recommended/dont_cry.flac"
+      ],
+      "bilibili_search_url": "https://search.bilibili.com/all?keyword=%E6%88%91%E4%B8%8D%E5%93%AD+%E7%8E%8B%E6%A0%8E%E9%91%AB",
+      "license_status": "needs_user_authorized_local_file",
+      "heroes": [
+        {
+          "hero_key": "amumu",
+          "display_name": "殇之木乃伊 阿木木",
+          "english_name": "Amumu"
+        }
+      ]
+    },
+    {
+      "id": "dragostea",
+      "title": "Dragostea Din Tei",
+      "artist": "O-Zone / Remix",
+      "vibe": "魔性、搞怪、洗脑",
+      "local_target_stem": "./assets/music/recommended/dragostea",
+      "accepted_local_files": [
+        "./assets/music/recommended/dragostea.mp3",
+        "./assets/music/recommended/dragostea.m4a",
+        "./assets/music/recommended/dragostea.aac",
+        "./assets/music/recommended/dragostea.ogg",
+        "./assets/music/recommended/dragostea.opus",
+        "./assets/music/recommended/dragostea.wav",
+        "./assets/music/recommended/dragostea.flac"
+      ],
+      "bilibili_search_url": "https://search.bilibili.com/all?keyword=Dragostea+Din+Tei+O-Zone+%2F+Remix",
+      "license_status": "needs_user_authorized_local_file",
+      "heroes": [
+        {
+          "hero_key": "teemo",
+          "display_name": "迅捷斥候 提莫",
+          "english_name": "Teemo"
+        }
+      ]
+    },
+    {
+      "id": "drop_dead",
+      "title": "Drop Dead",
+      "artist": "Olivia Rodrigo",
+      "vibe": "复仇、重生、极端情绪",
+      "local_target_stem": "./assets/music/recommended/drop_dead",
+      "accepted_local_files": [
+        "./assets/music/recommended/drop_dead.mp3",
+        "./assets/music/recommended/drop_dead.m4a",
+        "./assets/music/recommended/drop_dead.aac",
+        "./assets/music/recommended/drop_dead.ogg",
+        "./assets/music/recommended/drop_dead.opus",
+        "./assets/music/recommended/drop_dead.wav",
+        "./assets/music/recommended/drop_dead.flac"
+      ],
+      "bilibili_search_url": "https://search.bilibili.com/all?keyword=Drop+Dead+Olivia+Rodrigo",
+      "license_status": "needs_user_authorized_local_file",
+      "heroes": [
+        {
+          "hero_key": "briar",
+          "display_name": "狂厄蔷薇 贝蕾亚",
+          "english_name": "Briar"
+        }
+      ]
+    },
+    {
+      "id": "one_got_away",
+      "title": "The One That Got Away",
+      "artist": "Katy Perry",
+      "vibe": "失去、回忆、悲剧美",
+      "local_target_stem": "./assets/music/recommended/one_got_away",
+      "accepted_local_files": [
+        "./assets/music/recommended/one_got_away.mp3",
+        "./assets/music/recommended/one_got_away.m4a",
+        "./assets/music/recommended/one_got_away.aac",
+        "./assets/music/recommended/one_got_away.ogg",
+        "./assets/music/recommended/one_got_away.opus",
+        "./assets/music/recommended/one_got_away.wav",
+        "./assets/music/recommended/one_got_away.flac"
+      ],
+      "bilibili_search_url": "https://search.bilibili.com/all?keyword=The+One+That+Got+Away+Katy+Perry",
+      "license_status": "needs_user_authorized_local_file",
+      "heroes": [
+        {
+          "hero_key": "kindred",
+          "display_name": "永猎双子 千珏",
+          "english_name": "Kindred"
+        }
+      ]
+    },
+    {
+      "id": "pipa",
+      "title": "琵琶行",
+      "artist": "奇然 / 沈谧仁",
+      "vibe": "国风、叙事、古韵",
+      "local_target_stem": "./assets/music/recommended/pipa",
+      "accepted_local_files": [
+        "./assets/music/recommended/pipa.mp3",
+        "./assets/music/recommended/pipa.m4a",
+        "./assets/music/recommended/pipa.aac",
+        "./assets/music/recommended/pipa.ogg",
+        "./assets/music/recommended/pipa.opus",
+        "./assets/music/recommended/pipa.wav",
+        "./assets/music/recommended/pipa.flac"
+      ],
+      "bilibili_search_url": "https://search.bilibili.com/all?keyword=%E7%90%B5%E7%90%B6%E8%A1%8C+%E5%A5%87%E7%84%B6+%2F+%E6%B2%88%E8%B0%A7%E4%BB%81",
+      "license_status": "needs_user_authorized_local_file",
+      "heroes": [
+        {
+          "hero_key": "hwei",
+          "display_name": "异画师 彗",
+          "english_name": "Hwei"
+        }
+      ]
+    },
+    {
+      "id": "rain_love",
+      "title": "雨爱",
+      "artist": "杨丞琳",
+      "vibe": "水汽、雨幕、柔和情绪",
+      "local_target_stem": "./assets/music/recommended/rain_love",
+      "accepted_local_files": [
+        "./assets/music/recommended/rain_love.mp3",
+        "./assets/music/recommended/rain_love.m4a",
+        "./assets/music/recommended/rain_love.aac",
+        "./assets/music/recommended/rain_love.ogg",
+        "./assets/music/recommended/rain_love.opus",
+        "./assets/music/recommended/rain_love.wav",
+        "./assets/music/recommended/rain_love.flac"
+      ],
+      "bilibili_search_url": "https://search.bilibili.com/all?keyword=%E9%9B%A8%E7%88%B1+%E6%9D%A8%E4%B8%9E%E7%90%B3",
+      "license_status": "needs_user_authorized_local_file",
+      "heroes": [
+        {
+          "hero_key": "nami",
+          "display_name": "唤潮鲛姬 娜美",
+          "english_name": "Nami"
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "title": "Risk It All",
+      "artist": "Bruno Mars",
+      "vibe": "冒险、华丽、赌上一切",
+      "local_target_stem": "./assets/music/recommended/risk",
+      "accepted_local_files": [
+        "./assets/music/recommended/risk.mp3",
+        "./assets/music/recommended/risk.m4a",
+        "./assets/music/recommended/risk.aac",
+        "./assets/music/recommended/risk.ogg",
+        "./assets/music/recommended/risk.opus",
+        "./assets/music/recommended/risk.wav",
+        "./assets/music/recommended/risk.flac"
+      ],
+      "bilibili_search_url": "https://search.bilibili.com/all?keyword=Risk+It+All+Bruno+Mars",
+      "license_status": "needs_user_authorized_local_file",
+      "heroes": [
+        {
+          "hero_key": "mel",
+          "display_name": "流光镜影 梅尔",
+          "english_name": "Mel"
+        }
+      ]
+    },
+    {
+      "id": "understand",
+      "title": "开始懂了",
+      "artist": "孙燕姿",
+      "vibe": "成长、时间、释然",
+      "local_target_stem": "./assets/music/recommended/understand",
+      "accepted_local_files": [
+        "./assets/music/recommended/understand.mp3",
+        "./assets/music/recommended/understand.m4a",
+        "./assets/music/recommended/understand.aac",
+        "./assets/music/recommended/understand.ogg",
+        "./assets/music/recommended/understand.opus",
+        "./assets/music/recommended/understand.wav",
+        "./assets/music/recommended/understand.flac"
+      ],
+      "bilibili_search_url": "https://search.bilibili.com/all?keyword=%E5%BC%80%E5%A7%8B%E6%87%82%E4%BA%86+%E5%AD%99%E7%87%95%E5%A7%BF",
+      "license_status": "needs_user_authorized_local_file",
+      "heroes": [
+        {
+          "hero_key": "zilean",
+          "display_name": "时光守护者 基兰",
+          "english_name": "Zilean"
+        }
+      ]
+    }
+  ]
+}

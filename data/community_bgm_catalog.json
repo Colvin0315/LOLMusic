@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "updated_at": "2026-06-17",
+  "description": "Community LoL hero BGM search catalog. This stores search terms only and never stores downloaded audio.",
+  "default_query_templates": [
+    "{primary_alias}の小曲",
+    "{primary_alias} 小曲",
+    "{primary_alias} 专属BGM 英雄联盟",
+    "LOL {english_name} 专属BGM",
+    "{english_name} montage BGM League of Legends"
+  ],
+  "source_notes": [
+    {
+      "label": "Bilibili: 阿卡丽专属BGM《梨花香》",
+      "url": "https://www.bilibili.com/video/BV1Sq4y1Y7aR/"
+    },
+    {
+      "label": "NGA: 阿卡丽和梨花香是什么梗",
+      "url": "https://ngabbs.com/read.php?tid=24168898"
+    },
+    {
+      "label": "Bilibili search: 亚索BGM / 亚索小曲",
+      "url": "https://search.bilibili.com/all?keyword=%E4%BA%9A%E7%B4%A2BGM"
+    },
+    {
+      "label": "NGA: 潘森哦哦哦哦哦 / rise and fall 梗",
+      "url": "https://bbs.nga.cn/read.php?tid=24807056"
+    },
+    {
+      "label": "Bilibili search: LOL英雄专属BGM",
+      "url": "https://search.bilibili.com/all?keyword=LOL%E8%8B%B1%E9%9B%84%E4%B8%93%E5%B1%9EBGM"
+    },
+    {
+      "label": "Bilibili search: 腕豪小曲 / Repeat / 够格小曲",
+      "url": "https://search.bilibili.com/all?keyword=%E8%85%95%E8%B1%AA%20%E5%B0%8F%E6%9B%B2"
+    },
+    {
+      "label": "Xiaohongshu search attempt: LOL专属bgm",
+      "url": "https://www.xiaohongshu.com/search_result?keyword=LOL%E4%B8%93%E5%B1%9Ebgm",
+      "note": "2026-06-17 Playwright access was blocked by Xiaohongshu risk control: error 300012 / IP存在风险, so comments could not be inspected from this environment."
+    }
+  ],
+  "overrides": {
+    "akali": {
+      "confidence": "verified",
+      "notes": "B站/NGA 均可见阿卡丽 + 梨花香的社区关联。",
+      "queries": [
+        "阿卡丽 梨花香 专属BGM",
+        "梨花香 阿卡丽",
+        "阿卡丽 霜雪千年 梨花香",
+        "阿卡丽专属BGM 梨花香"
+      ]
+    },
+    "yasuo": {
+      "confidence": "verified",
+      "notes": "B站搜索页可见亚索小曲、Yasuo、面对疾风吧等民间常用表达。",
+      "queries": [
+        "亚索 Yasuo 面对疾风吧 BGM",
+        "亚索の小曲 疾风 BGM",
+        "亚索 小曲 英雄联盟",
+        "Yasuo 亚索 专属背景音乐"
+      ]
+    },
+    "pantheon": {
+      "confidence": "community_seed",
+      "notes": "NGA 讨论提到潘森专精视频常配 rise and fall / 哦哦哦哦哦 段落。",
+      "queries": [
+        "潘森 rise and fall BGM",
+        "潘森 哦哦哦哦哦 BGM",
+        "不屈之枪 潘森 小曲",
+        "Pantheon montage BGM"
+      ]
+    },
+    "sett": {
+      "confidence": "verified",
+      "notes": "B站高播放结果明确出现腕豪的小曲、Repeat、够格小曲等社区表达。",
+      "queries": [
+        "腕豪 小曲 Repeat",
+        "腕豪 够格 小曲",
+        "腕豪の小曲 YOU Repeat",
+        "瑟提 专属BGM 英雄联盟"
+      ]
+    },
+    "lee_sin": {
+      "confidence": "community_seed",
+      "queries": [
+        "盲僧 英雄联盟台词版 专属BGM",
+        "盲僧 李青 专属BGM",
+        "盲僧 小曲 英雄联盟",
+        "Lee Sin montage BGM"
+      ]
+    },
+    "viego": {
+      "confidence": "community_seed",
+      "queries": [
+        "破败之王 台词版 专属BGM",
+        "佛耶戈 破败之王 专属BGM",
+        "佛耶戈 小曲 英雄联盟",
+        "Viego montage BGM"
+      ]
+    },
+    "jhin": {
+      "confidence": "community_seed",
+      "queries": [
+        "戏命师 烬 死之四章 BGM",
+        "烬 专属BGM 英雄联盟",
+        "戏命师 烬 小曲",
+        "Jhin montage BGM"
+      ]
+    },
+    "zed": {
+      "confidence": "community_seed",
+      "queries": [
+        "影流之主 劫 专属BGM",
+        "劫 小曲 英雄联盟",
+        "劫 高燃 BGM 英雄联盟",
+        "Zed montage BGM"
+      ]
+    },
+    "irelia": {
+      "confidence": "community_seed",
+      "queries": [
+        "刀妹 BGM 英雄联盟",
+        "刀锋舞者 艾瑞莉娅 专属BGM",
+        "刀妹 小曲 英雄联盟",
+        "Irelia montage BGM"
+      ]
+    },
+    "riven": {
+      "confidence": "community_seed",
+      "queries": [
+        "锐雯 BGM 英雄联盟",
+        "放逐之刃 锐雯 专属BGM",
+        "锐雯 小曲 英雄联盟",
+        "Riven montage BGM"
+      ]
+    },
+    "vayne": {
+      "confidence": "community_seed",
+      "queries": [
+        "薇恩 BGM 英雄联盟",
+        "暗夜猎手 薇恩 专属BGM",
+        "薇恩 小曲 英雄联盟",
+        "Vayne montage BGM"
+      ]
+    }
+  }
+}
